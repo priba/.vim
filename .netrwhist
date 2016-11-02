@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/prlz77/Code/LSTM-on-CNN'
+let g:netrw_dirhist_2='/home/prlz77/Code/prlz77.github.io/_posts'
+let g:netrw_dirhist_3='/home/prlz77/Code/ECOCS/cifar100_end2end'
+let g:netrw_dirhist_4='/home/prlz77/Code/ECOCS/cifar100_sigmoid/experiments/c_100_k_100_a_identity_b_0_t_spectral_d_L2_m_0.000000_t_ZERO_2'
